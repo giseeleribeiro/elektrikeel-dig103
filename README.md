@@ -1,4 +1,5 @@
-Elektrik Eel 🎶⚡
+Elektrik Eel
+
 Description:
 Elektrik Eel is a music festival project designed to showcase an electrifying, futuristic, and neon-lit experience. The project aims to create a strong digital presence for the festival through a website and design assets, targeting a demographic of 20-35-year-olds who love genres like techno, dance, and rave.
 
